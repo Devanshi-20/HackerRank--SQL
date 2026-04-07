@@ -16,45 +16,6 @@ A complete collection of my solutions to HackerRank's **Solve SQL** problem set 
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-hackerrank-sql/
-│
-├── 01_select/
-│   ├── revising_the_select_query.sql
-│   ├── select_all.sql
-│   ├── select_by_id.sql
-│   └── ...
-│
-├── 02_joins/
-│   ├── african_cities.sql
-│   ├── asian_population.sql
-│   ├── the_report.sql
-│   └── ...
-│
-├── 03_aggregation/
-│   ├── revising_aggregations.sql
-│   ├── average_population.sql
-│   ├── weather_observation.sql
-│   └── ...
-│
-├── 04_advanced/
-│   ├── binary_tree_nodes.sql
-│   ├── new_companies.sql
-│   ├── interviews.sql
-│   └── 15_days_of_learning_sql.sql
-│
-├── 05_numeric_and_arithmetic/
-│   ├── employee_salaries.sql
-│   ├── top_earners.sql
-│   └── ...
-│
-└── README.md
-```
-
----
-
 ## ✅ Challenge Progress
 
 ### Basic SELECT
@@ -154,7 +115,7 @@ Or paste directly into the HackerRank SQL editor — all solutions are tested an
 
 - [HackerRank SQL Domain](https://www.hackerrank.com/domains/sql)
 - [MySQL Documentation](https://dev.mysql.com/doc/)
-- [SQL Window Functions Explained](https://mode.com/sql-tutorial/sql-window-functions/)
+- https://www.w3schools.com/sql/default.asp
 
 ---
 
